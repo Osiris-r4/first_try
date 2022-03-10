@@ -1,10 +1,14 @@
 """
 
+<<<<<<< HEAD
 ESTE ES EL PRIMER FICHERO DE LA MAIN"
 <<<<<<< HEAD
 =======
 
 >>>>>>> 7b8cce5a97c363f2df7ed00e2921afb075663fcf
+=======
+ESTE ES EL PRIMER FICHERO DE LA MAIN
+>>>>>>> 0d90a89f90865b425e0e20f1b1a769cd43ff4b16
 
 
 
